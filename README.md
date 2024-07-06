@@ -4,7 +4,7 @@
 
 Схема базы данных:  
 
-![Alt text](/SQL_simulator-Karpov.Courses-/master/Database_schema.png "Database schema")  
+![alt text](https://github.com/[FedorShabunin]/[SQL_simulator-Karpov.Courses-]/blob/[master]/Database_schema.png?raw=true)
 
 ## Первый раздел
 
